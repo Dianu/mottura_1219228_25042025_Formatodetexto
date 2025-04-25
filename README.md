@@ -11,7 +11,7 @@ Copiá ese código y pegalo en un archivo HTML nuevo.
 
 Creá una hoja de estilo nueva y vinculala al HTML, creando un nuevo tag link debajo del que ya tiene (un HTML puede estar vinculado a más de una hoja de estilo sin ningún problema).  
 
-Dentro de tu CSS, creá una clase para el imperio que genere un background-color red, y asignásela a cada uno de los miembros del imperio en los opening tags de sus <li> dentro del archivo HTML.  
+Dentro de tu CSS, creá una clase para el imperio que genere un background-color red, y asignásela a cada uno de los miembros del imperio en los opening tags de sus li dentro del archivo HTML.  
 
 Hacé lo mismo para los rebeldes, pero que la clase genere un background-color blue.  
 
